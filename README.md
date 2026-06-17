@@ -1,9 +1,13 @@
-# Cape Mod
+## CapeMod:
 
-## Setup
+&#x20;
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+#### Setup:
 
-## License
+&#x20;
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Run the game with the mod once , You should see a capemod folder created in .Minecraft/config folder inside the capemod folder, name the gif you want as cape as cape.gif and paste it there \[the gif should follow Minecraft cape dimensions] and rerun the game and you should have a gif cape
+
+
+---
+
